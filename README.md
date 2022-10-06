@@ -1,8 +1,10 @@
+![CFYYWy6UEAE9Ow-](https://user-images.githubusercontent.com/106749067/194226838-c457fb8a-77a1-47ae-8859-a7c356971ff3.png)
 Resources
 Read or watch:
 
 Google
-How do I use extern to share variables between source files in C?
+
+How do I use extern to share variables between source files in C? 
 Stacks and Queues in C
 Stack operations
 Queue operations
